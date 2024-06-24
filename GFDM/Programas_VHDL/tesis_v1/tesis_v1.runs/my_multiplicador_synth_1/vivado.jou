@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Wed May 22 17:12:16 2024
+# Process ID: 6932
+# Current directory: C:/Users/Jhonatan/Documents/basys/modulacion/tesis_v2/tesis_v1/tesis_v1.runs/my_multiplicador_synth_1
+# Command line: vivado.exe -log my_multiplicador.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source my_multiplicador.tcl
+# Log file: C:/Users/Jhonatan/Documents/basys/modulacion/tesis_v2/tesis_v1/tesis_v1.runs/my_multiplicador_synth_1/my_multiplicador.vds
+# Journal file: C:/Users/Jhonatan/Documents/basys/modulacion/tesis_v2/tesis_v1/tesis_v1.runs/my_multiplicador_synth_1\vivado.jou
+#-----------------------------------------------------------
+source my_multiplicador.tcl -notrace

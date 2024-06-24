@@ -1,0 +1,32 @@
+vhdl xil_defaultlib  \
+"../../../bd/system/ip/system_util_ds_buf_0_0/util_ds_buf.vhd" \
+"../../../bd/system/ip/system_util_ds_buf_0_0/sim/system_util_ds_buf_0_0.vhd" \
+"../../../bd/system/ip/system_util_ds_buf_1_0/sim/system_util_ds_buf_1_0.vhd" \
+"../../../bd/system/ip/system_util_ds_buf_2_0/sim/system_util_ds_buf_2_0.vhd" \
+"../../../bd/system/ip/system_c_counter_binary_0_0/sim/system_c_counter_binary_0_0.vhd" \
+"../../../bd/system/ip/system_top_level_0_0/src/product/sim/product.vhd" \
+"../../../bd/system/ip/system_top_level_0_0/src/acumulador/sim/acumulador.vhd" \
+"../../../bd/system/ip/system_top_level_0_0/src/suma/sim/suma.vhd" \
+"../../../bd/system/ip/system_top_level_0_0/src/my_rest/sim/my_rest.vhd" \
+"../../../bd/system/ip/system_top_level_0_0/src/my_multiplicador/sim/my_multiplicador.vhd" \
+"../../../bd/system/ip/system_top_level_0_0/src/product_sdr/sim/product_sdr.vhd" \
+"../../../bd/system/ipshared/62ba/src/bits16_bits32.vhd" \
+"../../../bd/system/ipshared/62ba/src/carrier.vhd" \
+"../../../bd/system/ipshared/62ba/src/config_ofdm.vhd" \
+"../../../bd/system/ipshared/62ba/src/conv_bin.vhd" \
+"../../../bd/system/ipshared/62ba/src/cuantizador.vhd" \
+"../../../bd/system/ipshared/62ba/src/interpolador.vhd" \
+"../../../bd/system/ipshared/62ba/src/ofdm.vhd" \
+"../../../bd/system/ipshared/62ba/src/ofdm_sdr.vhd" \
+"../../../bd/system/ipshared/62ba/src/pv_fila0.vhd" \
+"../../../bd/system/ipshared/62ba/src/pv_fila1.vhd" \
+"../../../bd/system/ipshared/62ba/src/pv_fila2.vhd" \
+"../../../bd/system/ipshared/62ba/src/pv_fila3.vhd" \
+"../../../bd/system/ipshared/62ba/src/pv_fila4.vhd" \
+"../../../bd/system/ipshared/62ba/src/pv_fila5.vhd" \
+"../../../bd/system/ipshared/62ba/src/redondeo.vhd" \
+"../../../bd/system/ipshared/62ba/src/synch_tx.vhd" \
+"../../../bd/system/ipshared/62ba/src/top_level.vhd" \
+"../../../bd/system/ip/system_top_level_0_0/sim/system_top_level_0_0.vhd" \
+
+nosort

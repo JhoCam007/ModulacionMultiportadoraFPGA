@@ -1,0 +1,22 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../tesis_v1.srcs/sources_1/ip/suma/sim/suma.vhd" \
+"../../../../tesis_v1.srcs/sources_1/ip/product_sdr/sim/product_sdr.vhd" \
+"../../../../tesis_v1.srcs/sources_1/ip/acumulador/sim/acumulador.vhd" \
+"../../../../tesis_v1.srcs/sources_1/ip/product/sim/product.vhd" \
+"../../../../tesis_v1.srcs/sources_1/new/bits16_bits32.vhd" \
+"../../../../tesis_v1.srcs/sources_1/new/carrier.vhd" \
+"../../../../tesis_v1.srcs/sources_1/new/interpolador.vhd" \
+"../../../../tesis_v1.srcs/sources_1/new/ofdm.vhd" \
+"../../../../tesis_v1.srcs/sources_1/new/ofdm_sdr.vhd" \
+"../../../../tesis_v1.srcs/sources_1/new/pv_fila0.vhd" \
+"../../../../tesis_v1.srcs/sources_1/new/pv_fila1.vhd" \
+"../../../../tesis_v1.srcs/sources_1/new/pv_fila2.vhd" \
+"../../../../tesis_v1.srcs/sources_1/new/pv_fila3.vhd" \
+"../../../../tesis_v1.srcs/sources_1/new/pv_fila4.vhd" \
+"../../../../tesis_v1.srcs/sources_1/new/pv_fila5.vhd" \
+"../../../../tesis_v1.srcs/sources_1/new/synch_tx.vhd" \
+"../../../../tesis_v1.srcs/sim_1/new/simulation_interpolador.vhd" \
+
+# Do not sort compile order
+nosort

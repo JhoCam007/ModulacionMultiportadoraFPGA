@@ -1,0 +1,1 @@
+my_multiplicador.vhd,vhdl,xil_defaultlib,../../../../tesis_v1.srcs/sources_1/ip/my_multiplicador/sim/my_multiplicador.vhd,

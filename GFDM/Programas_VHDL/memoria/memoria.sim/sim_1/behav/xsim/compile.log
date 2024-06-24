@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jhonatan/Documents/basys/modulacion/memoria/memoria.srcs/sources_1/new/control_memoria.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'control_memoria'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jhonatan/Documents/basys/modulacion/memoria/memoria.srcs/sources_1/new/top_level.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'top_level'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Jhonatan/Documents/basys/modulacion/memoria/memoria.srcs/sim_1/new/memoria_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'memoria_tb'

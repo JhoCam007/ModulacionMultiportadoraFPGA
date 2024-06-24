@@ -1,0 +1,57 @@
+# compile vhdl design source files
+vhdl xbip_utils_v3_0_10  \
+"../../../../tesis_v1.ip_user_files/ipstatic/hdl/xbip_utils_v3_0_vh_rfs.vhd" \
+
+vhdl axi_utils_v2_0_6  \
+"../../../../tesis_v1.ip_user_files/ipstatic/hdl/axi_utils_v2_0_vh_rfs.vhd" \
+
+vhdl xbip_pipe_v3_0_6  \
+"../../../../tesis_v1.ip_user_files/ipstatic/hdl/xbip_pipe_v3_0_vh_rfs.vhd" \
+
+vhdl xbip_dsp48_wrapper_v3_0_4  \
+"../../../../tesis_v1.ip_user_files/ipstatic/hdl/xbip_dsp48_wrapper_v3_0_vh_rfs.vhd" \
+
+vhdl xbip_dsp48_addsub_v3_0_6  \
+"../../../../tesis_v1.ip_user_files/ipstatic/hdl/xbip_dsp48_addsub_v3_0_vh_rfs.vhd" \
+
+vhdl xbip_dsp48_multadd_v3_0_6  \
+"../../../../tesis_v1.ip_user_files/ipstatic/hdl/xbip_dsp48_multadd_v3_0_vh_rfs.vhd" \
+
+vhdl xbip_bram18k_v3_0_6  \
+"../../../../tesis_v1.ip_user_files/ipstatic/hdl/xbip_bram18k_v3_0_vh_rfs.vhd" \
+
+vhdl mult_gen_v12_0_16  \
+"../../../../tesis_v1.ip_user_files/ipstatic/hdl/mult_gen_v12_0_vh_rfs.vhd" \
+
+vhdl floating_point_v7_1_10  \
+"../../../../tesis_v1.ip_user_files/ipstatic/hdl/floating_point_v7_1_rfs.vhd" \
+
+vhdl xil_defaultlib  \
+"../../../../tesis_v1.srcs/sources_1/ip/my_multiplicador/sim/my_multiplicador.vhd" \
+"../../../../tesis_v1.srcs/sources_1/ip/my_rest/sim/my_rest.vhd" \
+"../../../../tesis_v1.srcs/sources_1/ip/suma/sim/suma.vhd" \
+"../../../../tesis_v1.srcs/sources_1/ip/product_sdr/sim/product_sdr.vhd" \
+"../../../../tesis_v1.srcs/sources_1/ip/acumulador/sim/acumulador.vhd" \
+"../../../../tesis_v1.srcs/sources_1/ip/product/sim/product.vhd" \
+"../../../../tesis_v1.srcs/sources_1/new/bits16_bits32.vhd" \
+"../../../../tesis_v1.srcs/sources_1/new/carrier.vhd" \
+"../../../../tesis_v1.srcs/sources_1/new/config_ofdm.vhd" \
+"../../../../tesis_v1.srcs/sources_1/new/control_memoria.vhd" \
+"../../../../tesis_v1.srcs/sources_1/new/conv_bin.vhd" \
+"../../../../tesis_v1.srcs/sources_1/new/cuantizador.vhd" \
+"../../../../tesis_v1.srcs/sources_1/new/interpolador.vhd" \
+"../../../../tesis_v1.srcs/sources_1/new/ofdm.vhd" \
+"../../../../tesis_v1.srcs/sources_1/new/ofdm_sdr.vhd" \
+"../../../../tesis_v1.srcs/sources_1/new/pv_fila0.vhd" \
+"../../../../tesis_v1.srcs/sources_1/new/pv_fila1.vhd" \
+"../../../../tesis_v1.srcs/sources_1/new/pv_fila2.vhd" \
+"../../../../tesis_v1.srcs/sources_1/new/pv_fila3.vhd" \
+"../../../../tesis_v1.srcs/sources_1/new/pv_fila4.vhd" \
+"../../../../tesis_v1.srcs/sources_1/new/pv_fila5.vhd" \
+"../../../../tesis_v1.srcs/sources_1/new/redondeo.vhd" \
+"../../../../tesis_v1.srcs/sources_1/new/synch_tx.vhd" \
+"../../../../tesis_v1.srcs/sources_1/new/top_level.vhd" \
+"../../../../tesis_v1.srcs/sim_1/new/test_toplevel.vhd" \
+
+# Do not sort compile order
+nosort

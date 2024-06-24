@@ -1,0 +1,60 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Henry/Documents/TesisV4.0-RedPitaya_1/TesisV4.0-RedPitaya/Pitaya/redpitaya_guide-master/tmp/1_led_blink/1_led_blink.ip_user_files/bd/system/ip/system_util_ds_buf_0_0/util_ds_buf.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'util_ds_buf'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Henry/Documents/TesisV4.0-RedPitaya_1/TesisV4.0-RedPitaya/Pitaya/redpitaya_guide-master/tmp/1_led_blink/1_led_blink.ip_user_files/bd/system/ip/system_util_ds_buf_0_0/sim/system_util_ds_buf_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'system_util_ds_buf_0_0'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Henry/Documents/TesisV4.0-RedPitaya_1/TesisV4.0-RedPitaya/Pitaya/redpitaya_guide-master/tmp/1_led_blink/1_led_blink.ip_user_files/bd/system/ip/system_util_ds_buf_1_0/sim/system_util_ds_buf_1_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'system_util_ds_buf_1_0'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Henry/Documents/TesisV4.0-RedPitaya_1/TesisV4.0-RedPitaya/Pitaya/redpitaya_guide-master/tmp/1_led_blink/1_led_blink.ip_user_files/bd/system/ip/system_util_ds_buf_2_0/sim/system_util_ds_buf_2_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'system_util_ds_buf_2_0'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Henry/Documents/TesisV4.0-RedPitaya_1/TesisV4.0-RedPitaya/Pitaya/redpitaya_guide-master/tmp/1_led_blink/1_led_blink.ip_user_files/bd/system/ip/system_c_counter_binary_0_0/sim/system_c_counter_binary_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'system_c_counter_binary_0_0'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Henry/Documents/TesisV4.0-RedPitaya_1/TesisV4.0-RedPitaya/Pitaya/redpitaya_guide-master/tmp/1_led_blink/1_led_blink.ip_user_files/bd/system/ip/system_top_level_0_6/src/product/sim/product.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'product'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Henry/Documents/TesisV4.0-RedPitaya_1/TesisV4.0-RedPitaya/Pitaya/redpitaya_guide-master/tmp/1_led_blink/1_led_blink.ip_user_files/bd/system/ip/system_top_level_0_6/src/acumulador/sim/acumulador.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'acumulador'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Henry/Documents/TesisV4.0-RedPitaya_1/TesisV4.0-RedPitaya/Pitaya/redpitaya_guide-master/tmp/1_led_blink/1_led_blink.ip_user_files/bd/system/ip/system_top_level_0_6/src/suma/sim/suma.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'suma'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Henry/Documents/TesisV4.0-RedPitaya_1/TesisV4.0-RedPitaya/Pitaya/redpitaya_guide-master/tmp/1_led_blink/1_led_blink.ip_user_files/bd/system/ip/system_top_level_0_6/src/my_rest/sim/my_rest.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'my_rest'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Henry/Documents/TesisV4.0-RedPitaya_1/TesisV4.0-RedPitaya/Pitaya/redpitaya_guide-master/tmp/1_led_blink/1_led_blink.ip_user_files/bd/system/ip/system_top_level_0_6/src/my_multiplicador/sim/my_multiplicador.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'my_multiplicador'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Henry/Documents/TesisV4.0-RedPitaya_1/TesisV4.0-RedPitaya/Pitaya/redpitaya_guide-master/tmp/1_led_blink/1_led_blink.ip_user_files/bd/system/ip/system_top_level_0_6/src/product_sdr/sim/product_sdr.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'product_sdr'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Henry/Documents/TesisV4.0-RedPitaya_1/TesisV4.0-RedPitaya/Pitaya/redpitaya_guide-master/tmp/1_led_blink/1_led_blink.ip_user_files/bd/system/ipshared/54d1/src/bits16_bits32.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'bits16_bits32'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Henry/Documents/TesisV4.0-RedPitaya_1/TesisV4.0-RedPitaya/Pitaya/redpitaya_guide-master/tmp/1_led_blink/1_led_blink.ip_user_files/bd/system/ipshared/54d1/src/carrier.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'carrier'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Henry/Documents/TesisV4.0-RedPitaya_1/TesisV4.0-RedPitaya/Pitaya/redpitaya_guide-master/tmp/1_led_blink/1_led_blink.ip_user_files/bd/system/ipshared/54d1/src/config_ofdm.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'config_ofdm'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Henry/Documents/TesisV4.0-RedPitaya_1/TesisV4.0-RedPitaya/Pitaya/redpitaya_guide-master/tmp/1_led_blink/1_led_blink.ip_user_files/bd/system/ipshared/54d1/src/control_memoria.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'control_memoria'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Henry/Documents/TesisV4.0-RedPitaya_1/TesisV4.0-RedPitaya/Pitaya/redpitaya_guide-master/tmp/1_led_blink/1_led_blink.ip_user_files/bd/system/ipshared/54d1/src/conv_bin.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'conv_bin'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Henry/Documents/TesisV4.0-RedPitaya_1/TesisV4.0-RedPitaya/Pitaya/redpitaya_guide-master/tmp/1_led_blink/1_led_blink.ip_user_files/bd/system/ipshared/54d1/src/cuantizador.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'cuantizador'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Henry/Documents/TesisV4.0-RedPitaya_1/TesisV4.0-RedPitaya/Pitaya/redpitaya_guide-master/tmp/1_led_blink/1_led_blink.ip_user_files/bd/system/ipshared/54d1/src/interpolador.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'interpolador'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Henry/Documents/TesisV4.0-RedPitaya_1/TesisV4.0-RedPitaya/Pitaya/redpitaya_guide-master/tmp/1_led_blink/1_led_blink.ip_user_files/bd/system/ipshared/54d1/src/ofdm.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ofdm'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Henry/Documents/TesisV4.0-RedPitaya_1/TesisV4.0-RedPitaya/Pitaya/redpitaya_guide-master/tmp/1_led_blink/1_led_blink.ip_user_files/bd/system/ipshared/54d1/src/ofdm_sdr.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ofdm_sdr'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Henry/Documents/TesisV4.0-RedPitaya_1/TesisV4.0-RedPitaya/Pitaya/redpitaya_guide-master/tmp/1_led_blink/1_led_blink.ip_user_files/bd/system/ipshared/54d1/src/pv_fila0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'pv_fila0'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Henry/Documents/TesisV4.0-RedPitaya_1/TesisV4.0-RedPitaya/Pitaya/redpitaya_guide-master/tmp/1_led_blink/1_led_blink.ip_user_files/bd/system/ipshared/54d1/src/pv_fila1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'pv_fila1'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Henry/Documents/TesisV4.0-RedPitaya_1/TesisV4.0-RedPitaya/Pitaya/redpitaya_guide-master/tmp/1_led_blink/1_led_blink.ip_user_files/bd/system/ipshared/54d1/src/pv_fila2.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'pv_fila2'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Henry/Documents/TesisV4.0-RedPitaya_1/TesisV4.0-RedPitaya/Pitaya/redpitaya_guide-master/tmp/1_led_blink/1_led_blink.ip_user_files/bd/system/ipshared/54d1/src/pv_fila3.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'pv_fila3'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Henry/Documents/TesisV4.0-RedPitaya_1/TesisV4.0-RedPitaya/Pitaya/redpitaya_guide-master/tmp/1_led_blink/1_led_blink.ip_user_files/bd/system/ipshared/54d1/src/pv_fila4.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'pv_fila4'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Henry/Documents/TesisV4.0-RedPitaya_1/TesisV4.0-RedPitaya/Pitaya/redpitaya_guide-master/tmp/1_led_blink/1_led_blink.ip_user_files/bd/system/ipshared/54d1/src/pv_fila5.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'pv_fila5'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Henry/Documents/TesisV4.0-RedPitaya_1/TesisV4.0-RedPitaya/Pitaya/redpitaya_guide-master/tmp/1_led_blink/1_led_blink.ip_user_files/bd/system/ipshared/54d1/src/redondeo.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'redondeo'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Henry/Documents/TesisV4.0-RedPitaya_1/TesisV4.0-RedPitaya/Pitaya/redpitaya_guide-master/tmp/1_led_blink/1_led_blink.ip_user_files/bd/system/ipshared/54d1/src/synch_tx.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'synch_tx'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Henry/Documents/TesisV4.0-RedPitaya_1/TesisV4.0-RedPitaya/Pitaya/redpitaya_guide-master/tmp/1_led_blink/1_led_blink.ip_user_files/bd/system/ipshared/54d1/src/top_level.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'top_level'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Henry/Documents/TesisV4.0-RedPitaya_1/TesisV4.0-RedPitaya/Pitaya/redpitaya_guide-master/tmp/1_led_blink/1_led_blink.ip_user_files/bd/system/ip/system_top_level_0_6/sim/system_top_level_0_6.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'system_top_level_0_6'

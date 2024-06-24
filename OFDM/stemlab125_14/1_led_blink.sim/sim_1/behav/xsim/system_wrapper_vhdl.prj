@@ -1,0 +1,35 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../1_led_blink.ip_user_files/bd/system/ip/system_util_ds_buf_0_0/util_ds_buf.vhd" \
+"../../../../1_led_blink.ip_user_files/bd/system/ip/system_util_ds_buf_0_0/sim/system_util_ds_buf_0_0.vhd" \
+"../../../../1_led_blink.ip_user_files/bd/system/ip/system_util_ds_buf_1_0/sim/system_util_ds_buf_1_0.vhd" \
+"../../../../1_led_blink.ip_user_files/bd/system/ip/system_util_ds_buf_2_0/sim/system_util_ds_buf_2_0.vhd" \
+"../../../../1_led_blink.ip_user_files/bd/system/ip/system_c_counter_binary_0_0/sim/system_c_counter_binary_0_0.vhd" \
+"../../../../1_led_blink.ip_user_files/bd/system/ip/system_top_level_0_6/src/product/sim/product.vhd" \
+"../../../../1_led_blink.ip_user_files/bd/system/ip/system_top_level_0_6/src/acumulador/sim/acumulador.vhd" \
+"../../../../1_led_blink.ip_user_files/bd/system/ip/system_top_level_0_6/src/suma/sim/suma.vhd" \
+"../../../../1_led_blink.ip_user_files/bd/system/ip/system_top_level_0_6/src/my_rest/sim/my_rest.vhd" \
+"../../../../1_led_blink.ip_user_files/bd/system/ip/system_top_level_0_6/src/my_multiplicador/sim/my_multiplicador.vhd" \
+"../../../../1_led_blink.ip_user_files/bd/system/ip/system_top_level_0_6/src/product_sdr/sim/product_sdr.vhd" \
+"../../../../1_led_blink.ip_user_files/bd/system/ipshared/54d1/src/bits16_bits32.vhd" \
+"../../../../1_led_blink.ip_user_files/bd/system/ipshared/54d1/src/carrier.vhd" \
+"../../../../1_led_blink.ip_user_files/bd/system/ipshared/54d1/src/config_ofdm.vhd" \
+"../../../../1_led_blink.ip_user_files/bd/system/ipshared/54d1/src/control_memoria.vhd" \
+"../../../../1_led_blink.ip_user_files/bd/system/ipshared/54d1/src/conv_bin.vhd" \
+"../../../../1_led_blink.ip_user_files/bd/system/ipshared/54d1/src/cuantizador.vhd" \
+"../../../../1_led_blink.ip_user_files/bd/system/ipshared/54d1/src/interpolador.vhd" \
+"../../../../1_led_blink.ip_user_files/bd/system/ipshared/54d1/src/ofdm.vhd" \
+"../../../../1_led_blink.ip_user_files/bd/system/ipshared/54d1/src/ofdm_sdr.vhd" \
+"../../../../1_led_blink.ip_user_files/bd/system/ipshared/54d1/src/pv_fila0.vhd" \
+"../../../../1_led_blink.ip_user_files/bd/system/ipshared/54d1/src/pv_fila1.vhd" \
+"../../../../1_led_blink.ip_user_files/bd/system/ipshared/54d1/src/pv_fila2.vhd" \
+"../../../../1_led_blink.ip_user_files/bd/system/ipshared/54d1/src/pv_fila3.vhd" \
+"../../../../1_led_blink.ip_user_files/bd/system/ipshared/54d1/src/pv_fila4.vhd" \
+"../../../../1_led_blink.ip_user_files/bd/system/ipshared/54d1/src/pv_fila5.vhd" \
+"../../../../1_led_blink.ip_user_files/bd/system/ipshared/54d1/src/redondeo.vhd" \
+"../../../../1_led_blink.ip_user_files/bd/system/ipshared/54d1/src/synch_tx.vhd" \
+"../../../../1_led_blink.ip_user_files/bd/system/ipshared/54d1/src/top_level.vhd" \
+"../../../../1_led_blink.ip_user_files/bd/system/ip/system_top_level_0_6/sim/system_top_level_0_6.vhd" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,4 @@
+vhdl xil_defaultlib  \
+"../../../../tesis_v1.srcs/sources_1/ip/suma/sim/suma.vhd" \
+
+nosort

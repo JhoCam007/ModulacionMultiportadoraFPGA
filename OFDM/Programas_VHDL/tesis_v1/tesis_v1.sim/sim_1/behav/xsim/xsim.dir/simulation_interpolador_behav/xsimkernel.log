@@ -1,0 +1,7 @@
+Running: xsim.dir/simulation_interpolador_behav/xsimk.exe -simmode gui -wdb simulation_interpolador_behav.wdb -simrunnum 0 -socket 61904
+Design successfully loaded
+Design Loading Memory Usage: 40292 KB (Peak: 40292 KB)
+Design Loading CPU Usage: 77 ms
+Simulation completed
+Simulation Memory Usage: 42456 KB (Peak: 42456 KB)
+Simulation CPU Usage: 343 ms

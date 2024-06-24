@@ -1,0 +1,10 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../memoria.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0_sim_netlist.vhdl" \
+"../../../../memoria.srcs/sources_1/new/control_memoria.vhd" \
+"../../../../memoria.srcs/sources_1/new/memoria.vhd" \
+"../../../../memoria.srcs/sources_1/new/top_level.vhd" \
+"../../../../memoria.srcs/sim_1/new/memoria_tb.vhd" \
+
+# Do not sort compile order
+nosort

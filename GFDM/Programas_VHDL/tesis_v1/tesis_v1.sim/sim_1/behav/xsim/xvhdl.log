@@ -1,0 +1,12 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Henry/Documents/TesisV4.0-RedPitaya_1-GFDM/TesisV4.0-RedPitaya_1/Programas_VHDL/tesis_v1/tesis_v1/tesis_v1.srcs/sources_1/new/pv_fila0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'pv_fila0'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Henry/Documents/TesisV4.0-RedPitaya_1-GFDM/TesisV4.0-RedPitaya_1/Programas_VHDL/tesis_v1/tesis_v1/tesis_v1.srcs/sources_1/new/pv_fila1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'pv_fila1'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Henry/Documents/TesisV4.0-RedPitaya_1-GFDM/TesisV4.0-RedPitaya_1/Programas_VHDL/tesis_v1/tesis_v1/tesis_v1.srcs/sources_1/new/pv_fila2.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'pv_fila2'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Henry/Documents/TesisV4.0-RedPitaya_1-GFDM/TesisV4.0-RedPitaya_1/Programas_VHDL/tesis_v1/tesis_v1/tesis_v1.srcs/sources_1/new/pv_fila3.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'pv_fila3'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Henry/Documents/TesisV4.0-RedPitaya_1-GFDM/TesisV4.0-RedPitaya_1/Programas_VHDL/tesis_v1/tesis_v1/tesis_v1.srcs/sources_1/new/pv_fila4.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'pv_fila4'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Henry/Documents/TesisV4.0-RedPitaya_1-GFDM/TesisV4.0-RedPitaya_1/Programas_VHDL/tesis_v1/tesis_v1/tesis_v1.srcs/sources_1/new/pv_fila5.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'pv_fila5'
